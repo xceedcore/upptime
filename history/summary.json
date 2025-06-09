@@ -22,7 +22,7 @@
     "url": "https://shop.xceedcore.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.xceedcore.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 369,
     "timeMonth": 391,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   }
 ]
